@@ -67,8 +67,8 @@ Thanks to the [School of Code](https://www.schoolofcode.co.uk/), an intensive 16
 
 ## Github Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=mismail99&show_icons=true&theme=panda)
+![Marwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=marwaismail99&show_icons=true&theme=panda)
 
 <br/>
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=mismail99&show_icons=true&theme=panda)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=marwaismail99&show_icons=true&theme=panda)
