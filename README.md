@@ -6,8 +6,6 @@ After graduating with a Masters in Pharmacy, I made the decision to swap prescri
 
 Thanks to the [School of Code](https://www.schoolofcode.co.uk/), an intensive 16-week Bootcamp, I am now a full-stack software developer and aspiring UX/UI designer, ready to explore a whole new world🧞‍♂️. I am based in London and looking for opportunities to develop my skills in a challenging, innovative environment that will facilitate my growth as a young professional.
 
-<br/>
-
 - 🌱 I’m currently working on my portfolio website and consolidating my newfound knowledge by delving deeper into the world of JavaScript, React, HTML and CSS.
 
 - 🎨 I'm currently learning Figma UX UI design essentials and advanced CSS + Sass in order to build beautiful, responsive websites.
