@@ -1,31 +1,29 @@
-## <div align="center">Hiya, I'm Marwa. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>  
-  
+<img src="./LinkedIn Banner.png" alt="banner that says Karen Derbyshire - Software Developer">
 
-🎓 After graduating with a Masters in Pharmacy, I made the decision to swap prescriptions for programming in a bold career move - the creativity and diversity of technology inspired me to do so. 
+## <div align="center">Hey there, I'm Marwa. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
 
-🧞‍♂️ Thanks to the School of Code, an intensive 16-week Bootcamp, I am now a full-stack software developer and aspiring UX/UI designer, ready to explore a whole new world. 
+After graduating with a Masters in Pharmacy, I made the decision to swap prescriptions for programming in a bold career move - the creativity and diversity of technology inspired me to do so.
 
-🚀 I am based in London and looking for opportunities to develop my skills in a challenging, innovative environment that will facilitate my growth as a young professional.   
-  
+Thanks to the [School of Code](https://www.schoolofcode.co.uk/), an intensive 16-week Bootcamp, I am now a full-stack software developer and aspiring UX/UI designer, ready to explore a whole new world🧞‍♂️. I am based in London and looking for opportunities to develop my skills in a challenging, innovative environment that will facilitate my growth as a young professional.
 
-- 🌱 I’m currently working on my portfolio website and consolidating my newfound knowledge by delving deeper into the world of JavaScript, React, HTML and CSS.  
-  
+<br/>
 
-- 🎨 I'm currently learning Figma UX UI design essentials and advanced CSS + Sass in order to build beautiful, responsive websites.  
-  
+- 🌱 I’m currently working on my portfolio website and consolidating my newfound knowledge by delving deeper into the world of JavaScript, React, HTML and CSS.
 
-- ⚡ Fun fact: I love learning human languages as well as programming ones and I am currently learning Korean & Arabic.  
-  
+- 🎨 I'm currently learning Figma UX UI design essentials and advanced CSS + Sass in order to build beautiful, responsive websites.
 
-<br/>  
+- ⚡ Fun fact: I love learning human languages as well as programming ones and I am currently learning Korean & Arabic.
 
+<br/>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## My Skill Set
 
+<div align="center">
+<table><tr><td valign="center" width="50%">
 
+### Frontend
 
-### Frontend  
+<div align="center">  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -35,27 +33,26 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="center" width="50%">
 
+### Backend
 
-
-### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /> 
 </div>
 
-</td><td valign="top" width="33%">
+</td></tr></table>  
+</div>
 
+<br/>
 
-<br/>  
+## Connect with me
 
-
-## Connect with me  
 <div align="center">
 <a href="https://github.com/marwaismail99" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -66,15 +63,14 @@
 <a href="https://twitter.com/marwaissy" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
-<br/>  
+<br/>
 
+## Github Stats
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=marwaismail99&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+![github stats](https://github-readme-stats.vercel.app/api?username=mismail99&show_icons=true&theme=panda)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwaismail99&hide_border=true&layout=compact" align="left" />
-<br />
+<br/>
 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=mismail99&show_icons=true&theme=panda)
