@@ -8,7 +8,7 @@ Thanks to the [School of Code](https://www.schoolofcode.co.uk/), an intensive 16
 
 - 🌱 I’m currently working on my portfolio website and consolidating my newfound knowledge by delving deeper into the world of JavaScript, React, HTML and CSS.
 
-- 🎨 I'm currently learning Figma UX UI design essentials and advanced CSS + Sass in order to build beautiful, responsive websites.
+- 🎨 I'm currently learning Figma UX/UI design essentials (Udemy course by Daniel Walter Scott) in order to build beautiful, user-friendly websites.
 
 - ⚡ Fun fact: I love learning human languages as well as programming ones and I am currently learning Korean & Arabic.
 
