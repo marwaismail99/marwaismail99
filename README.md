@@ -1,4 +1,4 @@
-<img src="./LinkedIn Banner.png" alt="banner that says Karen Derbyshire - Software Developer">
+<img src="./LinkedIn Banner.png" alt="banner that says Marwa Ismail - Software Developer">
 
 ## <div align="center">Hey there, I'm Marwa. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
 
