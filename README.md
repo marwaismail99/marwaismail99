@@ -2,13 +2,13 @@
 
 ## <div align="center">Hey there, I'm Marwa. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
 
-After graduating with a Masters in Pharmacy, I made the decision to swap prescriptions for programming in a bold career move - the creativity and diversity of technology inspired me to do so.
+After graduating with a Masters in Pharmacy, I made the decision to swap prescriptions for programming and prototyping in a bold career move - the creativity and diversity of technology inspired me to do so.
 
-Thanks to the [School of Code](https://www.schoolofcode.co.uk/), an intensive 16-week Bootcamp, I am now a full-stack software developer and aspiring UX/UI designer, ready to explore a whole new world🧞‍♂️. I am based in London and looking for opportunities to develop my skills in a challenging, innovative environment that will facilitate my growth as a young professional.
+I am an aspiring UX/UI designer and developer, ready to explore a whole new world🧞‍♂️. I am based in London and looking for opportunities to develop my skills in a challenging, innovative environment that will facilitate my growth as a young professional.
 
-- 🌱 I’m currently working on my portfolio website and consolidating my newfound knowledge by delving deeper into the world of JavaScript, React, HTML and CSS.
+- 🌱 I’m currently working on my portfolio website and consolidating my newfound knowledge by delving deeper into the world of JavaScript, React, HTML and CSS. Following completetion of a Udemy Course (Figma UI UX Essentials) by Daniel Walter Scott, I want to use my programming skills to build beautiful, user-friendly interfaces + experiences.
 
-- 🎨 I'm currently learning Figma UX/UI design essentials (Udemy course by Daniel Walter Scott) in order to build beautiful, user-friendly websites.
+- 🎨 I'm also currently working towards obtaining certification from the Udemy courses 'Build Responsive Real-World Websites with HTML and CSS' and 'The Complete JavaScript Course 2023: From Zero to Expert!' (by Jonas Schmedtmann).
 
 - ⚡ Fun fact: I love learning human languages as well as programming ones and I am currently learning Korean & Arabic.
 
