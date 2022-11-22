@@ -6,7 +6,7 @@ After graduating with a Masters in Pharmacy, I made the decision to swap prescri
 
 I am an aspiring UX/UI designer and developer, ready to explore a whole new world🧞‍♂️. I am based in London and looking for opportunities to develop my skills in a challenging, innovative environment that will facilitate my growth as a young professional.
 
-- 🌱 I’m currently working on my portfolio website and consolidating my newfound knowledge by delving deeper into the world of JavaScript, React, HTML and CSS. Following completetion of a Udemy Course (Figma UI UX Essentials) by Daniel Walter Scott, I want to use my programming skills to build beautiful, user-friendly interfaces + experiences.
+- 🌱 I’m currently working on my portfolio website and consolidating my newfound knowledge by delving deeper into the world of JavaScript, React, HTML and CSS. Following completion of a Udemy Course (Figma UI UX Essentials) by Daniel Walter Scott, I want to use my programming skills to build beautiful, user-friendly interfaces + experiences.
 
 - 🎨 I'm also currently working towards obtaining certification from the Udemy courses 'Build Responsive Real-World Websites with HTML and CSS' and 'The Complete JavaScript Course 2023: From Zero to Expert!' (by Jonas Schmedtmann).
 
